@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryanhchung
 - 👀 I’m interested in computational biology / cancer genomics / immunotherapy / tumor microenvironment.
 - 🌱 I’m currently focusing on tumor microenvironment and cancer-associated fibroblasts for developing new immunotherapy.
-- 💞️ I’m looking to collaborate with ML/DL researchers for computatioal biology / cancer biology researchers.
+- 💞️ I’m looking to collaborate with ML/DL researchers for computatioal biology / cancer genomics projects.
 - 📫 How to reach me - heechulrchung@gmail.com or DM - https://www.instagram.com/ryan_heechul_chung/
 
 <!---
