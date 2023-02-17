@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ryanhchung
-- 👀 I’m interested in computational biology / cancer genomics / immunotherapy / tumor microenvironment.
-- 🌱 I’m currently focusing on tumor microenvironment and cancer-associated fibroblasts for developing new immunotherapy.
-- 💞️ I’m looking to collaborate with ML/DL researchers for computatioal biology / cancer genomics projects.
-- 📫 How to reach me - heechulrchung@gmail.com or DM - https://www.instagram.com/ryan_heechul_chung/
+- 👀 I’m interested in computational biology and Translational cancer genomics.
+- 🌱 I’m currently focusing on tumor microenvironment and cancer-associated fibroblasts in pan-cancer data, especially in prostate cancer.
+- 💞️ I’m looking to collaborate with cancer biologists, machine learning esearchers for computatioal biology / cancer genomics projects.
+- 📫 How to reach me - heechulrchung@gmail.com or rhcchung@student.ubc.ca
 
 <!---
 ryanhchung/ryanhchung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
